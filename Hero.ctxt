@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Hero()
+comment1.params=
+comment1.target=int\ getX()
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=int\ getY()
+comment3.params=
+comment3.target=int\ isHealed()
+comment4.params=
+comment4.target=java.lang.String\ moveNorth()
+comment5.params=
+comment5.target=java.lang.String\ moveSouth()
+comment6.params=
+comment6.target=java.lang.String\ moveEast()
+comment7.params=
+comment7.target=java.lang.String\ moveWest()
+comment8.params=
+comment8.target=java.lang.String\ printLoc()
+comment9.params=
+comment9.target=boolean\ engage()
+numComments=11

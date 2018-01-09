@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=h
+comment0.target=Monsters(int)
+comment1.params=x
+comment1.target=int\ setX(int)
+comment2.params=y
+comment2.target=int\ setY(int)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4
